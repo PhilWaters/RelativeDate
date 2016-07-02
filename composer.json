@@ -1,0 +1,16 @@
+{
+    "name": "PhilipWaters/RelativeDate",
+    "description": "Converts a UNIX epoch timestamp into a relative date string",
+    "license": "MIT",
+    "keywords": ["relative date"],
+    "authors": [
+        {
+            "name": "Phil Waters",
+            "email": "phil@waters.codes"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    }
+}
